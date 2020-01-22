@@ -1,7 +1,12 @@
 Origin: hidingpwn's 2020 Repo
 Label: hidingpwn's 2020 Repo
+<<<<<<< Updated upstream
 Suite: stable
 Version: 2020.1
+=======
+Suite: unstable
+Version: 2020.2020
+>>>>>>> Stashed changes
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
