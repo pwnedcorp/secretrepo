@@ -1,7 +1,7 @@
-Origin: hnr 2020
+Origin: hidingpwn's 2020 Repo
 Label: hidingpwn's 2020 Repo
 Suite: stable
-Version: 1.0
+Version: 2020.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
