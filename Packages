@@ -1,0 +1,211 @@
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: libactivator
+Version: 1.9.13~beta5
+Architecture: iphoneos-arm
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta5), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Filename: ./debs/libactivator_1.9.13~beta5_iphoneos-arm.deb
+Size: 706942
+MD5sum: 38f38c4139ffae73694611c472cb990a
+SHA1: bc1a0d4a387e41e435ff8470b8a86c7a2e85cf50
+SHA256: 0d784c3b74e0e5d07d781ff64cd1c8128233da18489a68838a74b13d2047ec16
+Section: System
+Description: Centralized gestures, button and shortcut management for iOS
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Installed-Size: 4228
+Name: Activator
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.r333d.cylinder
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/cylinder_1.0.6.deb
+Size: 255488
+MD5sum: 1c0eebe91f6e03faea96218dadf8f4cc
+SHA1: 8ee421d677df4ebf70b1f39f58e3ff9d3b831e1a
+SHA256: 4294d05662d81b24bae3625c4962ec6cfd85678f4066c4b580b151b555c8615f
+Section: Tweaks
+Description: Make your icons dance
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Installed-Size: 899
+Name: Cylinder
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: rweichler
+
+Package: com.philippe.installer4
+Version: 4.1.2
+Architecture: iphoneos-arm
+Maintainer: Philippe <philippemail1@gmail.com>
+Filename: ./debs/com.philippe.installer4_4.1.2_iphoneos-arm.deb
+Size: 673010
+MD5sum: 4587edf89277dba4e2dc63e0f085e81b
+SHA1: 5961626f676f5be3244de441e67baa3ae07bacf8
+SHA256: 0254c70d6bb4f6b6dc155933de438d5cfac2d1b4c3b8bbe8c8a4b48d1a52170b
+Section: Philippe's system
+Description: Installer 4 de RiP Dev
+Author: Philippe <philippemail1@gmail.com>
+Icon: file:///Applications/Installer.app/Installer.png
+Name: Installer 4
+dev: philippe
+
+Package: com.dpkgdan.powertap
+Version: 1.1.3-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.1), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot
+Filename: ./debs/powertap_1.1.3-3.deb
+Size: 65202
+MD5sum: 13f296c2e58aacbcbc52efa6d0f52c03
+SHA1: fa36d9144a26712ab00d4233b218f6524ab9ebca
+SHA256: c45431d5aea65b95cdcb7b46f53f101a2493faced92e4534923b716b6c6190f0
+Section: Tweaks
+Description: tap powerdown knob to reboot, respring, safe mode
+Author: Dan Saba <dpkgdan@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powertapDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powertapDp
+Installed-Size: 270
+Name: Power Tap
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: dpkgdan
+
+Package: me.devbug.swipenav
+Version: 0.8-4
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/swipenav_0.8-4.deb
+Size: 68286
+MD5sum: 687721ee171a300c3e40b36d0db777f5
+SHA1: 7605ef8896bed2d51d40ae555b31b705e1195158
+SHA256: f22e97ce0bc2e103a171bd1feb05a2f9588d335cbeda966d2f8083e986240bb3
+Section: Tweaks
+Description: swipe back gesture for app Nav-bars
+Author: deVbug <devbug@devbug.me>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipenavData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipenavData
+Icon: file:///Library/PreferenceBundles/swipenav.bundle/SwipeNav@2x.png
+Installed-Size: 338
+Name: SwipeNav
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: devbug
+
+Package: uk.invoxiplaygames.checkmatestore
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: ./debs/checkmatestore-1.1.deb
+Size: 4518
+MD5sum: c2ea6cc05a4452f3549ff653e70a4273
+SHA1: ca2f5aabc512960c665d258738e7d47c55c413f5
+SHA256: 0c159a005985a54f45133402a89b027233d06389c322f8450454786340a3fe28
+Section: Tweaks
+Description: Disable capability limits in the App Store.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=uk.invoxiplaygames.checkmatestore
+Installed-Size: 164
+Name: Checkmate, Store!
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
+Package: com.jannikcrack.badgebar
+Version: 1.0.7.1
+Architecture: iphoneos-arm
+Maintainer: JannikCrack
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Filename: ./debs/com.jannikcrack.badgebar_1.0.7.1_iphoneos-arm.deb
+Size: 372360
+MD5sum: c0c64325b1c74116fe0d7ce816e9fd01
+SHA1: f400cdacc07a53526d24f191b8dd202eb918b0b6
+SHA256: a9ef450fef6ad6ab869d31d7f24e8b991c9be908684a0f9d5460b268455e3aae
+Section: Tweaks
+Description: Badges as Bars
+Author: JannikCrack
+Installed-Size: 664
+Name: BadgeBar
+Depiction: https://pwnedcorp.github.io/secretrepo/depictions/?p=com.jannikcrack.badgebar
+
+Package: ultrasn0w
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: Dev Team <blog@iphone-dev.org>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.3209-1), firmware (<< 5.0) | mobilesubstrate (>= 0.9.3900)
+Conflicts: blacksn0w, yellowsn0w, gsc.wildcat
+Filename: ./debs/ultrasn0w_1.2.8_iphoneos-arm.deb
+Size: 15238
+MD5sum: 11be21a4d635cd8a9d68c81f2616fb03
+SHA1: d860e8717bd5e4d5253296c9fb2058ebcb227884
+SHA256: 287a9439a41e85336d38d45ff1560edf35d2aa09eeb14585c2e4a25328fe31b5
+Section: Utilities
+Description: iPhone Dev Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.  Compatible with iPhone 4 baseband 01.59.00 and iPhone 3G/3GS basebands 04.26.08, 05.11.07, 05.12.01, 05.13.04 and 06.15.00!  Thanks to @sherif_hashim and @Oranav for contributing baseband crashes.
+Author: Dev Team <blog@iphone-dev.org>
+Homepage: http://ultrasn0w.com/
+Name: ultrasn0w
+
+Package: net.angelxwind.appsync40plus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: ./debs/net.angelxwind.appsync40plus.deb
+Size: 9214
+MD5sum: 978292feb0353853c4e5f927dfa75b0f
+SHA1: 40df6228167056638cbbae985c197aa399c6b597
+SHA256: e068966c36e6711f98bc174da6498730118a1996386334010400bc1e11473445
+Section: Tweaks
+Description: AppSync Unified allows you to sync and install unsigned iOS applications. Only for iOS 4.
+Author: Karen/あけみ, Dissident <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsync40plus
+Homepage: https://cydia.angelxwind.net/
+Name: AppSync for iOS 4.0
+Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+
