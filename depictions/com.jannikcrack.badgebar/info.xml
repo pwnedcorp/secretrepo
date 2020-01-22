@@ -1,0 +1,23 @@
+<package>
+	<id>com.jannikcrack.badgebar</id>
+	<name>BadgeBar</name>
+	<version>1.0.7.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is badgebar, a nice tweak to convert badges into a bar. Only on iOS 13 - 13.3.1. Developed by JannikCrack</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>SafeMode Fix hopefully</change>
+	</changelog>
+	<links></links>
+</package>
