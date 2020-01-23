@@ -119,7 +119,7 @@ SHA256: 0c159a005985a54f45133402a89b027233d06389c322f8450454786340a3fe28
 Section: Tweaks
 Description: Disable capability limits in the App Store.
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=uk.invoxiplaygames.checkmatestore
+Depiction: https://pwnedcorp.github.io/secretrepo/depictions/?p=uk.invoxiplaygames.checkmatestore
 Installed-Size: 164
 Name: Checkmate, Store!
 
