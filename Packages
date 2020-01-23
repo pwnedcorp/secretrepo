@@ -72,7 +72,7 @@ MD5sum: 13f296c2e58aacbcbc52efa6d0f52c03
 SHA1: fa36d9144a26712ab00d4233b218f6524ab9ebca
 SHA256: c45431d5aea65b95cdcb7b46f53f101a2493faced92e4534923b716b6c6190f0
 Section: Tweaks
-Description: tap powerdown knob to reboot, respring, safe mode
+Description: Tap Powerdown Slider to Reboot, Respring, Safe Mode.
 Author: Dan Saba <dpkgdan@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powertapDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powertapDp

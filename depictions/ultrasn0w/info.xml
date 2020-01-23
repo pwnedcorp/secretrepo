@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>ultrasn0w</id>
+	<name>ultrasn0w</name>
+	<version>1.2.8</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>6.1.6</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,8 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>The last software unlock for the iPhone 4, 3GS and 3G. Compatible with iOS 4.1 - 6.1.6 on Baseband 01.59.00 (iP4), 04.26.08, 05.11.07, 05.12.01, 06.15.00 (iP3G / iP3GS). Brought you by the iPhone Dev Team, and archived by hidingpwn of pwnedcorp.
+		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
